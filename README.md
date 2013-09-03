@@ -1,7 +1,7 @@
 git-demo
 ========
 
-Some demo
+Some demo longer text blablablallefflsdf
 
 * Dumb public repository just to explain our git flow
 
